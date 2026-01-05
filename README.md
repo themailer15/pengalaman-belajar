@@ -1,12 +1,12 @@
 # pengalaman-belajar
 
-5 Januari 2026, 19.48
+**5 Januari 2026, 19.48**<br>
 ==
-Belajar Kelas Memulai Pemrograman dengan Java. (Progres 21%)
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-5 Januari 2026, 19:49
+**5 Januari 2026, 19:49**<br>
 ==
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
