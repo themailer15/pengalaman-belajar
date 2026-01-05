@@ -14,6 +14,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar tipe data koleksi, seperti list, set, dan map.
 
 **5 Januari 2026, 19:58**<br>
+==
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
 * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
